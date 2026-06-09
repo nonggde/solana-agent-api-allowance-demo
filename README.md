@@ -46,6 +46,12 @@ Short demo video:
 
 https://raw.githubusercontent.com/nonggde/solana-agent-api-allowance-demo/master/assets/agent-api-allowance-demo.mp4
 
+## Technical Deep Dive
+
+Long-form writeup:
+
+https://github.com/nonggde/solana-agent-api-allowance-demo/blob/master/docs/technical-deep-dive.md
+
 ## Example Output
 
 ```text
