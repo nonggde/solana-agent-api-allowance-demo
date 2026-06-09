@@ -40,6 +40,12 @@ npm test
 npm run typecheck
 ```
 
+## Demo Video
+
+Short demo video:
+
+https://raw.githubusercontent.com/nonggde/solana-agent-api-allowance-demo/master/assets/agent-api-allowance-demo.mp4
+
 ## Example Output
 
 ```text
