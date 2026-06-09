@@ -1,6 +1,6 @@
 # External Publishing Approval Packet
 
-Status: waiting for user approval.
+Status: GitHub repository published after user approval.
 
 ## Proposed GitHub Repository
 
@@ -21,6 +21,10 @@ Repository description:
 ```text
 TypeScript demo showing how Solana subscriptions and allowances can bound AI agent API spend.
 ```
+
+Published repository:
+
+https://github.com/nonggde/solana-agent-api-allowance-demo
 
 ## What Will Be Published
 
@@ -51,7 +55,7 @@ https://superteam.fun/earn/listing/technical-demo-solana-native-subscriptions-an
 
 ## Exact Superteam Submission Text
 
-Use this after the GitHub repository is public and replace `[GITHUB_REPO_LINK]` with the actual URL:
+Use this after the user approves Superteam submission:
 
 ```text
 I built a TypeScript technical demo showing how Solana subscriptions and allowances can create bounded payment capabilities for AI agents that call paid APIs.
@@ -64,7 +68,7 @@ The demo models two practical flows:
 The repository includes a runnable policy demo, tests, a README, and a technical deep dive explaining how the flow maps to the official @solana/subscriptions SDK instructions: initSubscriptionAuthority, createFixedDelegation, createRecurringDelegation, transferFixed/transferRecurring, and revokeDelegation.
 
 Public GitHub repository:
-[GITHUB_REPO_LINK]
+https://github.com/nonggde/solana-agent-api-allowance-demo
 ```
 
 ## Optional X Post Text
@@ -87,4 +91,5 @@ Recurring cap for daily agent budgets.
 - No private keys, wallet seed phrases, API keys, customer data, or live transactions are included.
 - The demo is offline and deterministic.
 - The README links to official Solana/subscriptions sources.
-- Publishing the GitHub repo and submitting to Superteam still require explicit user approval of this packet.
+- Publishing the GitHub repo was approved and completed.
+- Submitting to Superteam still requires explicit user approval of the exact submission text above.
