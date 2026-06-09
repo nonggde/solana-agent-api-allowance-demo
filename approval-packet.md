@@ -1,6 +1,6 @@
 # External Publishing Approval Packet
 
-Status: GitHub repository published after user approval.
+Status: GitHub repository published and Superteam submission sent after user approval.
 
 ## Proposed GitHub Repository
 
@@ -92,4 +92,5 @@ Recurring cap for daily agent budgets.
 - The demo is offline and deterministic.
 - The README links to official Solana/subscriptions sources.
 - Publishing the GitHub repo was approved and completed.
-- Submitting to Superteam still requires explicit user approval of the exact submission text above.
+- Submitting to Superteam was approved and completed.
+- Submission id: `e2004ead-e92f-4f29-b3ca-687df4c0ccbd`
